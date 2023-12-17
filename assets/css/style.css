@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  box-sizing: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #14a862;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: #242428;
+}
+
+.what-you-will-learning {
+  background-image: linear-gradient(to right, #202024, 40%, #17171a);
+}
+
+.prince-table {
+  background-image: linear-gradient(to top right, #202024, 30%, #17171a);
+}
+
+/*# sourceMappingURL=style.css.map */
