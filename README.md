@@ -1,5 +1,5 @@
 # Dev Expert
-Criei essa landing page pra treinar o design e copy
+Página de vendas
 
 Veja aqui como ficou: https://dev-expert-zeta.vercel.app
 
