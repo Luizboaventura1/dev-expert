@@ -4,6 +4,16 @@
   box-sizing: border-box;
 }
 
+.main-header {
+  background-image: url("../istockphoto-1356364287-612x612.jpg");
+  background-size: cover;
+}
+.main-header .background-header {
+  background-image: linear-gradient(to top right, rgba(18, 18, 20, 0.8196078431) 40%, rgba(21, 212, 123, 0.5294117647) 96%);
+  background-repeat: no-repeat;
+  backdrop-filter: blur(1px);
+}
+
 ::-webkit-scrollbar-thumb {
   background-color: #14a862;
   border-radius: 5px;
